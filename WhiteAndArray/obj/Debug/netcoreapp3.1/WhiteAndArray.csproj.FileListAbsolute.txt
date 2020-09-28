@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\WhiteAndArray\WhiteAndArray\bin\Debug\netcoreapp3.1\WhiteAndArray.exe
+C:\Users\opilane\source\repos\WhiteAndArray\WhiteAndArray\bin\Debug\netcoreapp3.1\WhiteAndArray.deps.json
+C:\Users\opilane\source\repos\WhiteAndArray\WhiteAndArray\bin\Debug\netcoreapp3.1\WhiteAndArray.runtimeconfig.json
+C:\Users\opilane\source\repos\WhiteAndArray\WhiteAndArray\bin\Debug\netcoreapp3.1\WhiteAndArray.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\WhiteAndArray\WhiteAndArray\bin\Debug\netcoreapp3.1\WhiteAndArray.dll
+C:\Users\opilane\source\repos\WhiteAndArray\WhiteAndArray\bin\Debug\netcoreapp3.1\WhiteAndArray.pdb
+C:\Users\opilane\source\repos\WhiteAndArray\WhiteAndArray\obj\Debug\netcoreapp3.1\WhiteAndArray.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\WhiteAndArray\WhiteAndArray\obj\Debug\netcoreapp3.1\WhiteAndArray.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\WhiteAndArray\WhiteAndArray\obj\Debug\netcoreapp3.1\WhiteAndArray.AssemblyInfo.cs
+C:\Users\opilane\source\repos\WhiteAndArray\WhiteAndArray\obj\Debug\netcoreapp3.1\WhiteAndArray.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\WhiteAndArray\WhiteAndArray\obj\Debug\netcoreapp3.1\WhiteAndArray.dll
+C:\Users\opilane\source\repos\WhiteAndArray\WhiteAndArray\obj\Debug\netcoreapp3.1\WhiteAndArray.pdb
+C:\Users\opilane\source\repos\WhiteAndArray\WhiteAndArray\obj\Debug\netcoreapp3.1\WhiteAndArray.genruntimeconfig.cache
